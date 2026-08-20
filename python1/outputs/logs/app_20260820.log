@@ -1,0 +1,24 @@
+2026-08-20 10:46:22 | INFO | 加载开源模型: yolov8n.pt
+2026-08-20 10:46:26 | INFO | 模型加载完成
+2026-08-20 10:46:26 | INFO | 开始图片检测: test_input.jpg
+2026-08-20 10:46:26 | INFO | 图片检测完成: 行人=0, 准确率=0.0%, 耗时=168.2ms
+2026-08-20 10:46:50 | INFO | 系统启动，使用开源 Ultralytics YOLOv8
+2026-08-20 10:46:50 | INFO | 默认模型: yolov8n.pt（仅检测 person）
+2026-08-20 10:47:35 | INFO | 系统启动，使用开源 Ultralytics YOLOv8
+2026-08-20 10:47:36 | INFO | 默认模型: yolov8n.pt（仅检测 person）
+2026-08-20 10:50:28 | INFO | 系统启动，使用开源 Ultralytics YOLOv8
+2026-08-20 10:50:28 | INFO | 默认模型: yolov8n.pt（仅检测 person）
+2026-08-20 10:51:21 | INFO | 系统启动，使用开源 Ultralytics YOLOv8
+2026-08-20 10:51:22 | INFO | 默认模型: yolov8n.pt（仅检测 person）
+2026-08-20 10:52:31 | INFO | 系统启动，使用开源 Ultralytics YOLOv8
+2026-08-20 10:52:32 | INFO | 默认模型: yolov8n.pt（仅检测 person）
+2026-08-20 10:52:52 | INFO | 上传图片: C:/Users/zjl15/Pictures/生活照片/5F98AB386323251C698DA81F3886EC87.jpg
+2026-08-20 10:52:56 | INFO | 检测参数已更新: {'conf': 0.25, 'iou': 0.45, 'imgsz': 640, 'max_det': 300, 'line_width': 2, 'sample_every': 1, 'show_labels': True, 'show_conf': True}
+2026-08-20 10:52:56 | INFO | 开始识别: C:/Users/zjl15/Pictures/生活照片/5F98AB386323251C698DA81F3886EC87.jpg
+2026-08-20 10:52:57 | INFO | 加载开源模型: yolov8n.pt
+2026-08-20 10:52:57 | INFO | 模型加载完成
+2026-08-20 10:52:57 | INFO | 开始图片检测: 5F98AB386323251C698DA81F3886EC87.jpg
+2026-08-20 10:52:58 | INFO | 图片检测完成: 行人=4, 准确率=88.83%, 耗时=192.2ms
+2026-08-20 10:52:58 | INFO | 结果图已保存: C:\Users\zjl15\Desktop\python模型大屏\python1\outputs\images\5F98AB386323251C698DA81F3886EC87_det_20260820_105258.jpg
+2026-08-20 10:54:06 | INFO | 系统启动，使用开源 Ultralytics YOLOv8
+2026-08-20 10:54:06 | INFO | 默认模型: yolov8n.pt（仅检测 person）
